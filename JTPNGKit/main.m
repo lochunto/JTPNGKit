@@ -3,7 +3,7 @@
 //  JTPNGKit
 //
 //  Created by John Lo on 15/12/23.
-//  Copyright © 2015年 John Lo. All rights reserved.
+//  Copyright © 2015 John Lo. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
